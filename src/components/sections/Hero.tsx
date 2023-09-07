@@ -37,7 +37,7 @@ const Hero = () => {
                     Adopt
                 </span>
             </div>
-            {/* <p className={css({ textStyle: "heading/marketing" })}></p> */}
+            <p className={css({ textStyle: "heading/marketing" })}></p>
         </div>
     );
 };
