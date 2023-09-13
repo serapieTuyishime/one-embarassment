@@ -31,7 +31,7 @@ const Hero = () => {
                         fontWeight: "800",
                         fontSize: "2xl",
                         width: "1/2",
-                        // textTransform: "uppercase",
+                        textTransform: "uppercase",
                     })}
                 >
                     Adopt
