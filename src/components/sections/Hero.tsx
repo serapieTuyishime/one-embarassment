@@ -30,7 +30,7 @@ const Hero = () => {
                         color: "white",
                         fontWeight: "800",
                         fontSize: "2xl",
-                        width: "1/2",
+                        width: "1/3",
                         textTransform: "uppercase",
                     })}
                 >
