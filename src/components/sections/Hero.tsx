@@ -29,7 +29,7 @@ const Hero = () => {
                         backgroundColor: "orange.500",
                         color: "white",
                         fontWeight: "800",
-                        fontSize: "2xl",
+                        fontSize: "3xl",
                         width: "1/2",
                         textTransform: "uppercase",
                     })}
